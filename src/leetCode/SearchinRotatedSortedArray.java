@@ -1,7 +1,8 @@
 package leetCode;
 
 public class SearchinRotatedSortedArray {
-	
+	// https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+	// 33. Search in Rotated Sorted Array
 	public int search(int[] nums, int target) {
         int pivot = findPivot(nums);
         int firstHalf = binarySearch(nums , target , 0 , pivot);
