@@ -13,7 +13,7 @@ public class FindinMountainArray {
 	// 1095. Find in Mountain Array
 	// Binary search
 	
-	
+/*	
 public int findInMountainArray(int target, MountainArray mountainArr) {
 	int peak = findThePeak(mountainArr);
 	// here i replace the end argument with the peak
@@ -73,4 +73,5 @@ public int desscendingOrder(MountainArray mountainArr, int target , int s, int e
 	return -1;
 
   }
+  */
 }
