@@ -8,6 +8,7 @@
 ##### 33. Search in Rotated Sorted Array
 ##### 410. Split Array Largest Sum
 ##### 35. Search Insert Position
+##### 69. Sqrt(x)
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
