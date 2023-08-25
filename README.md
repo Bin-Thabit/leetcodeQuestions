@@ -10,6 +10,7 @@
 ##### 35. Search Insert Position
 ##### 69. Sqrt(x)
 #####  81. Search in Rotated Sorted Array II
+##### 153. Find Minimum in Rotated Sorted Array
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
