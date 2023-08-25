@@ -14,6 +14,7 @@
 ##### 154. Find Minimum in Rotated Sorted Array II
 ##### 167. Two Sum II - Input Array Is Sorted
 ##### 374. Guess Number Higher or Lower
+##### 278. First Bad Version
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
