@@ -12,6 +12,7 @@
 #####  81. Search in Rotated Sorted Array II
 ##### 153. Find Minimum in Rotated Sorted Array
 ##### 154. Find Minimum in Rotated Sorted Array II
+##### 167. Two Sum II - Input Array Is Sorted
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
