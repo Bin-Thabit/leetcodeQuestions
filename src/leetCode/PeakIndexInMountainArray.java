@@ -5,7 +5,7 @@ public class PeakIndexInMountainArray {
 	// 852. Peak Index in a Mountain Array
 	// Using binary search
 	// Solution 1
-	public int peakIndexInMountainArray(int[] arr) {
+	public int peakIndexInMountainArray(int[] arr) { // 1 2 3 4 3 2 1
         int start = 0;
         int end = arr.length - 1;
         while(start < end ) {
