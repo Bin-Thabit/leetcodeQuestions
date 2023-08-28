@@ -18,6 +18,7 @@
 ##### 367. Valid Perfect Square
 ##### 74. Search a 2D Matrix
 ##### 240. Search a 2D Matrix II
+##### 441. Arranging Coins
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
