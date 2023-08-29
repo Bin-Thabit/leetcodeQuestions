@@ -21,6 +21,7 @@
 ##### 441. Arranging Coins
 ##### 1351. Count Negative Numbers in a Sorted Matrix
 ##### 349. Intersection of Two Arrays
+##### 268. Missing Number
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
