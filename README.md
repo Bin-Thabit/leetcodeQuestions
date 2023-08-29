@@ -22,6 +22,7 @@
 ##### 1351. Count Negative Numbers in a Sorted Matrix
 ##### 349. Intersection of Two Arrays
 ##### 268. Missing Number
+##### 448. Find All Numbers Disappeared in an Array
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
