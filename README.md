@@ -19,6 +19,7 @@
 ##### 74. Search a 2D Matrix
 ##### 240. Search a 2D Matrix II
 ##### 441. Arranging Coins
+##### 1351. Count Negative Numbers in a Sorted Matrix
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
