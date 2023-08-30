@@ -24,6 +24,7 @@
 ##### 268. Missing Number
 ##### 448. Find All Numbers Disappeared in an Array
 ##### 287. Find the Duplicate Number
+##### 442. Find All Duplicates in an Array
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
