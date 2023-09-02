@@ -27,6 +27,7 @@
 ##### 442. Find All Duplicates in an Array
 ##### 645. Set Mismatch
 ##### 41. First Missing Positive
+##### 1539. Kth Missing Positive Number
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
