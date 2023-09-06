@@ -30,6 +30,7 @@
 ##### 1539. Kth Missing Positive Number
 ##### 1108. Defanging an IP Address
 ##### 1528. Shuffle String
+##### 1678. Goal Parser Interpretation
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
