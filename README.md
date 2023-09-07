@@ -37,6 +37,7 @@
 ##### 1346. Check If N and Its Double Exist
 ##### 1608. Special Array With X Elements Greater Than or Equal X
 ##### 540. Single Element in a Sorted Array
+##### 436. Find Right Interval
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
