@@ -1,6 +1,7 @@
 # leetcode and other websites Questions
 
 ### Here i solve leetcode questions
+##### 704. Binary Search
 ##### 162. Find Peak Element
 ##### 744. Find Smallest Letter Greater Than Target
 ##### 1095. Find in Mountain Array
