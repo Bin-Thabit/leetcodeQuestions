@@ -33,6 +33,7 @@
 ##### 1678. Goal Parser Interpretation
 ##### 1773. Count Items Matching a Rule
 ##### 1662. Check If Two String Arrays are Equivalent
+##### 1346. Check If N and Its Double Exist
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
