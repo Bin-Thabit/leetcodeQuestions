@@ -38,6 +38,7 @@
 ##### 1608. Special Array With X Elements Greater Than or Equal X
 ##### 540. Single Element in a Sorted Array
 ##### 436. Find Right Interval
+##### 875. Koko Eating Bananas
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
