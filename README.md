@@ -41,6 +41,7 @@
 ##### 875. Koko Eating Bananas
 ##### 67. Add Binary
 ##### 136. Single Number
+##### 190. Reverse Bits
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
