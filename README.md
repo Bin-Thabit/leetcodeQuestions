@@ -39,6 +39,7 @@
 ##### 540. Single Element in a Sorted Array
 ##### 436. Find Right Interval
 ##### 875. Koko Eating Bananas
+##### 67. Add Binary
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
