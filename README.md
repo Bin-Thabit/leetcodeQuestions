@@ -42,6 +42,7 @@
 ##### 67. Add Binary
 ##### 136. Single Number
 ##### 190. Reverse Bits
+##### 191. Number of 1 Bits
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
