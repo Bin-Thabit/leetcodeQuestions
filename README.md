@@ -44,6 +44,7 @@
 ##### 190. Reverse Bits
 ##### 191. Number of 1 Bits
 ##### 338. Counting Bits
+##### 832. Flipping an Image
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
