@@ -1,7 +1,8 @@
 package Maths;
 
 public class FindGreatestCommonDivisorofArray {
-
+	// https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/
+	// 1979. Find Greatest Common Divisor of Array
 	public int findGCD(int[] nums) {
         int min = nums[0];
 		int max = nums[0];
