@@ -17,6 +17,7 @@ public class FindGreatestCommonDivisorofArray {
     }
 
     // Using Euclidean algorithm
+	/*
 	int gcd(int x, int y) {
 		int gcd = y;
 		if(x == y)
@@ -28,5 +29,13 @@ public class FindGreatestCommonDivisorofArray {
 		}
 		
 		return gcd;
+	}
+	*/
+	
+	// Using recursion
+	int gcd(int x, int y) {
+		if(y ==0)
+			return x;
+		return gcd(y, x%y);
 	}
 }
