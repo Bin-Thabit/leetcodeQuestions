@@ -46,6 +46,7 @@
 ##### 338. Counting Bits
 ##### 832. Flipping an Image
 ##### 1979. Find Greatest Common Divisor of Array
+##### 1342. Number of Steps to Reduce a Number to Zero
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
