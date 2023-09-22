@@ -49,6 +49,7 @@
 ##### 1342. Number of Steps to Reduce a Number to Zero
 ##### 78. Subsets
 ##### 90. Subsets II
+##### 392. Is Subsequence
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
