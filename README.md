@@ -3,6 +3,7 @@
 ### Here i solve leetcode questions
 ##### 704. Binary Search
 ##### 162. Find Peak Element
+##### 169. Majority Element
 ##### 744. Find Smallest Letter Greater Than Target
 ##### 1095. Find in Mountain Array
 ##### 852. Peak Index in a Mountain Array
