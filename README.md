@@ -52,6 +52,7 @@
 ##### 78. Subsets
 ##### 90. Subsets II
 ##### 392. Is Subsequence
+##### 88. Merge Sorted Array
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
