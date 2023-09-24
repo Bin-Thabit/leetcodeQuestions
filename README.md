@@ -54,6 +54,7 @@
 ##### 392. Is Subsequence
 ##### 88. Merge Sorted Array
 ##### 455. Assign Cookies
+##### 905. Sort Array By Parity
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
