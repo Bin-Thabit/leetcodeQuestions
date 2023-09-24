@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class AssignCookies {
 
+	// https://leetcode.com/problems/assign-cookies/description/
+	// 455. Assign Cookies
+
 	 public int findContentChildren(int[] g, int[] s) {
 	        // First Sort the two arrays
 	        Arrays.sort(g);
