@@ -5,6 +5,7 @@ public class SortArrayByParity {
 	// 905. Sort Array By Parity
 	
 	
+	// Solution 1
 	public int[] sortArrayByParity(int[] nums) {
         int start = 0;
         int end = nums.length - 1;
@@ -28,5 +29,23 @@ public class SortArrayByParity {
         nums[first] = nums[second];
         nums[second] = temp;
     }
+    
+    // Solution 2
+    /*
+    public int[] sortArrayByParity(int[] nums) {
+        int[] ans = new int[nums.length];
+        int p1 = 0;
+        int p2 = nums.length - 1;
+
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] %2 == 0)
+                ans[p1++] = nums[i];
+            else
+                ans[p2--] = nums[i];
+        } 
+
+        return ans;
+    }
+    */
 
 }
