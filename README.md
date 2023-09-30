@@ -59,5 +59,6 @@
 ##### 17. Letter Combinations of a Phone Number
 ##### 51. N-Queens
 
-### Here i solve other questions
+### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
+##### Sum triangle from array
