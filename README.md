@@ -57,6 +57,7 @@
 ##### 905. Sort Array By Parity
 ##### 922. Sort Array By Parity II
 ##### 17. Letter Combinations of a Phone Number
+##### 51. N-Queens
 
 ### Here i solve other questions
 ##### Find the Rotation Count in Rotated Sorted array
