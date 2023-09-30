@@ -7,7 +7,7 @@ public class DiceThrow {
 
 	public static void main(String[] args) {
 
-        System.out.println(sub("", 4));
+        System.out.println(sub("", 6));
 
     }
 
