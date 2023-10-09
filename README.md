@@ -59,6 +59,7 @@
 ##### 17. Letter Combinations of a Phone Number
 ##### 51. N-Queens
 ##### 344. Reverse String
+##### 83. Remove Duplicates from Sorted List
 
 ### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
