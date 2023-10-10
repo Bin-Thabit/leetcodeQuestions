@@ -61,7 +61,8 @@
 ##### 344. Reverse String
 ##### 83. Remove Duplicates from Sorted List
 ##### 21. Merge Two Sorted Lists
-##### Linked_List_Cycle.class
+##### Linked_List_Cycle
+##### Linked List Cycle II
 
 ### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
