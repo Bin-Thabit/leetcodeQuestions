@@ -60,6 +60,7 @@
 ##### 51. N-Queens
 ##### 344. Reverse String
 ##### 83. Remove Duplicates from Sorted List
+##### 21. Merge Two Sorted Lists
 
 ### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
