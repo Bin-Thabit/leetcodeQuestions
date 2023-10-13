@@ -63,6 +63,7 @@
 ##### 21. Merge Two Sorted Lists
 ##### Linked_List_Cycle
 ##### Linked List Cycle II
+##### 202. Happy Number
 
 ### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
