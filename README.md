@@ -66,6 +66,7 @@
 ##### 202. Happy Number
 ##### 876. Middle of the Linked List
 ##### 206. Reverse Linked List
+##### 92. Reverse Linked List II
 
 ### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
