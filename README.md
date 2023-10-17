@@ -67,6 +67,7 @@
 ##### 876. Middle of the Linked List
 ##### 206. Reverse Linked List
 ##### 92. Reverse Linked List II
+##### 1290. Convert Binary Number in a Linked List to Integer
 
 ### geeksforgeeks website
 ##### Find the Rotation Count in Rotated Sorted array
